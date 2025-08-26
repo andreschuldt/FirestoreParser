@@ -1,0 +1,156 @@
+Publisher;Model;Device Type;OS;OS Version;Inventory Number;Sticker-Number (iOS);Checked out by?;ID;Retired?
+Apple;iPhone 13 Pro;Phone;iOS;17.5.1;4100470;No.: 133;Malte Dethlefs;522544;FALSCH
+Huawei;MediaPad T3 10;Tablet;Android;8.0.0;4800494;;André Schuldt;285763;FALSCH
+Google;Pixel 4a;Phone;Android;13;4800363/2020;;Dennis Heimerl;956771;FALSCH
+Google;Pixel 7;Phone;Android;15;4800507;;Dennis Heimerl;504120;FALSCH
+Apple;iPhone 12;Phone;iOS;18;4800369/2020;No.: 127;Dennis Heimerl;431907;FALSCH
+Apple;iPhone 12 mini;Phone;iOS;16;4800393/2020;No.: 129;Dennis Heimerl;343060;FALSCH
+Apple;iPhone X;Phone;iOS;16.7.8;4100296;No.: 122;Jan Räderscheidt;883694;FALSCH
+Apple;iPhone 6S;Phone;iOS;;410091;No.: 65;Jan Räderscheidt;692584;FALSCH
+Apple;iPad WiFi 10.2;Tablet;iOS;13,1;4800301/2019;No.: 121;Jan Räderscheidt;766194;FALSCH
+Samsung;Galaxy S3;Tablet;Android;7.0.0;4800156/2008;;Jan Räderscheidt;287431;FALSCH
+Samsung;Galaxy S9;Phone;Android;10;4800172/2018;;Dennis Fölster;781094;FALSCH
+Samsung;Galaxy S21+ 5G;Phone;Android;14;4800443/2022;;Katharina Bente;455405;FALSCH
+Motorola;Razr;Phone;Android;11;4100406;;Katharina Bente;280101;FALSCH
+Apple;iPhone 14;Phone;iOS;17.7.2;4100354;No.: 134;Katharina Bente;894290;FALSCH
+Apple;iPhone 7;Phone;iOS;15;4100200;No.: 78;Jöran Windsor;786301;FALSCH
+Apple;iPhone 11 Pro max;Phone;iOS;18;4100365;No.: 118;Jöran Windsor;627265;FALSCH
+Google;Pixel 3 XL;Phone;Android;12;4800213/2018;;Jöran Windsor;685523;FALSCH
+Samsung;Galaxy S9+;Phone;Android;8;4800168/2018;;Jöran Windsor;435686;FALSCH
+Apple;iPhone 11;Phone;iOS;16;4800300/2019;No.: 120;Ansgar Grote;953373;FALSCH
+Apple;iPhone 8;Phone;iOS;14;4100267;No.: 91;Ansgar Grote;980130;FALSCH
+Samsung;Galaxy A52;Phone;Android;14;4800508;;Ansgar Grote;503170;FALSCH
+Google;Pixel;Phone;Android;10;4100208;;Ansgar Grote;947844;FALSCH
+Samsung;Galaxy Tab A6 2016;Tablet;Android;7;;;Ansgar Grote;690068;FALSCH
+Samsung;Galaxy Z Fold2 5G;Phone;Android;13;;;Devicefarm;415165;FALSCH
+Xiaomi;Redmi Note 10 Pro;Phone;Android;12 SKQ1;4800565;;Devicefarm;969707;FALSCH
+Huawei;P40;Phone;EMUI;12.0.0;4200001;;Devicefarm;388124;FALSCH
+Amazon;Kindle HD 10;Tablet;Fire OS;8.3.3.1;4800568;;Devicefarm;552353;FALSCH
+Samsung;Galaxy A52s 5G;Phone;Android;14;4800563;;Devicefarm;321979;FALSCH
+Samsung;Galaxy S20 5G;Phone;Android;13;4800564;;Devicefarm;858654;FALSCH
+Huawei;P30 Pro;Phone;EMUI;12.0.0;4800566;;Devicefarm;777281;FALSCH
+Lenovo;Moto G5;Phone;Android;7.0.0;4800091/2016;;Devicefarm;178770;WAHR
+Samsung;Galaxy Tab A9;Tablet;Android;13;4800567;;Devicefarm;931891;FALSCH
+Google;Pixel A7;Phone;Android;15;;;Devicefarm;343052;FALSCH
+Google;Pixel 2;Phone;Android;11;4100274;;Lisa Bär;285737;FALSCH
+Apple;iPhone 11 Pro;Phone;iOS;13,3;4100366;;Ali Tavakoli;741646;FALSCH
+Google;Pixel 6a;Phone;Android;13;4800485;;Kristina Meier;746956;FALSCH
+Apple;iPhone Xs Max;Phone;iOS;17.7.1;4100309;No.: 101;Kristina Meier;446816;FALSCH
+Apple;iPhone 13 mini;Phone;iOS;18,1;4800432/2021;No.: 132;Cindy Görlitz;950007;FALSCH
+Apple;iPad Pro 9,7;Tablet;iOS;16.7.2;4100144;;Cindy Görlitz;826081;FALSCH
+Samsung;Galaxy A23 5G;Phone;Android;13;4800497;;Cindy Görlitz;847221;FALSCH
+Samsung;Galaxy Tab A8;Tablet;Android;13;4800495;;Cindy Görlitz;896871;FALSCH
+Samsung;Galaxy Tab A;Tablet;Android;9;4800216/2018;;Kristina Meier;922559;FALSCH
+Apple;Watch Series 4;Watch;WearOS;10.1.1;;No.: 99;Kristina Meier;651184;FALSCH
+Apple;iPad Air 2;Tablet;iOS;15,8;;No.: 67;Malte Dethlefs;101699;FALSCH
+Apple;iPhone SE;Phone;iOS;15.7.9;4800052/2015;No.: 123;Malte Dethlefs;629723;FALSCH
+Google;Pixel 3;Phone;Android;12;4800212/2018;;Malte Dethlefs;149288;FALSCH
+OnePlus;OnePlus 3;Phone;Android;6;;;Malte Dethlefs;248108;FALSCH
+Apple;iPhone 12 Pro Max;Phone;iOS;17,7;4100430;No.: 130;Mattes Repnak;813961;FALSCH
+Apple;iPad Pro 9,7;Tablet;iOS;13.6.1;4100145;No.: 73;Mattes Repnak;964851;FALSCH
+Apple ;iPhone 5s;Phone;iOS;12.4.8;158005960;No.: 44;Mattes Repnak;987713;FALSCH
+Apple;iPhone 8;Phone;iOS;12.4.8;158007170;No.: 89;Mattes Repnak;436075;FALSCH
+Nokia;Nokia 1;Phone;Android;8,1;4600157/2018;;Mattes Repnak;718402;FALSCH
+Google;Pixel 3a;Phone;Android;12;4800355/2020;;Mattes Repnak;705311;FALSCH
+Huawei;Mediapad M5;Tablet;Android;8;4800200/2018;;Mattes Repnak;390801;FALSCH
+Apple;iPhone 7;Phone;iOS;14.7.1;4100199;No.: 112;Malte Dethlefs;282752;FALSCH
+Google ;Pixel C;Tablet;Android;8;4800027/2016;No.: 8;Malte Dethlefs;818550;FALSCH
+Apple;iPhone 6;Phone;iOS;12.4.8;158006760;No.: 55;Malte Dethlefs;152816;FALSCH
+Nokia;Nokia 6.1;Phone;Android;10;4800175/2018;;Malte Dethlefs;473251;FALSCH
+Google;Pixel 6;Phone;Android;14;4800441/2022;;Klara Zdonek;521821;FALSCH
+Apple;iPhone 13 Pro Max;Phone;iOS;17.4.1;4100471;No.: 134;Klara Zdonek;350423;FALSCH
+Apple;iPhone X;Phone;iOS;16.7.10;4100292;No.: 96;Amir Satari Fam;804062;FALSCH
+Apple;iPhone 7;Phone;iOS;15.8.3;4100204;No.: 97;Amir Satari Fam;597272;FALSCH
+Samsung;Galaxy S8;Phone;Android;8.0.0;4100246;;Amir Satari Fam;735797;FALSCH
+Google;Pixel 5;Phone;Android;14;4800420/2021;;Amir Satari Fam;312068;FALSCH
+LG;Nexus 5X;Phone;Android;8,1;4100071/1;;Joachim Okroj;399597;FALSCH
+Apple;iPhone 7;Phone;iOS;14;4100201;No.: 77;Joachim Okroj;263172;FALSCH
+Apple;iPhone 12 Pro;Phone;iOS;17.4.1;4100419;No.: 128;Danica Dombek;950039;FALSCH
+Samsung;Galaxy Z Flip;Phone;Android;13;4100401;;Danica Dombek;181459;FALSCH
+Samsung;Galaxy S7 Edge;Phone;Android;8;4100130;;Manuel Kallen;908180;FALSCH
+Samsung;Galaxy S10;Phone;Android;12;4800266/2019;;Lea Minnebusch;789313;FALSCH
+Samsung;Galaxy S22;Phone;Android;14;;;Lea Minnebusch;248835;FALSCH
+Apple;iPhone 14 Pro;Phone;iOS;18;4100556;No.: 137;Lea Minnebusch;598238;FALSCH
+Apple;iPhone SE;Phone;iOS;16,5;4800350/2020;No.: 125;Lea Minnebusch;692067;FALSCH
+Apple;iPhone 13;Phone;iOS;18;4800431/2021;No.: 131;Philip Tkalec;288280;FALSCH
+Apple;iPhone 14;Phone;iOS;18;;No.: 141;Philip Tkalec;107313;FALSCH
+Apple;iPhone SE;Phone;iOS;14;4800034/2015;No.: 75;Philip Tkalec;176821;FALSCH
+Samsung;Galaxy S8;Phone;Android;14;4100247;;Philip Tkalec;674874;FALSCH
+Google;Pixel 7 Pro;Phone;Android;14;4100576;;Philip Tkalec;562273;FALSCH
+Apple;iPad ;Tablet;iOS;18;4800209/2018;No.: 103;Philip Tkalec;467999;FALSCH
+Lenovo;Tab M10 FHD Plus;Tablet;Android;14;4800452/2022;;Philip Tkalec;463370;FALSCH
+Apple;iPhone XS;Phone;iOS;17.5.1;4100353;No.: 133;Monique Bekemeier;384139;FALSCH
+Google;Pixel 3a;Phone;Android;10;4800453/2022;;;783562;FALSCH
+Google;Pixel 3a;Phone;Android;11;4800455/2022;;;570899;FALSCH
+Huawei;Nexus 6P;Phone;Android;8.1.0;4100191;;;421131;FALSCH
+Apple;iPhone 16 pro;Phone;iOS;18,1;4100669;;;511598;FALSCH
+Google;Pixel 5;Phone;Android;14;4800484;;;661834;FALSCH
+Apple;iPhone XR;Phone;iOS;12,4;4800285/2019;No.: 116;;976232;FALSCH
+Samsung;Galaxy S6 Edge;Phone;Android;6.0.1;4100038;;;560097;FALSCH
+Apple;iPhone XR;Phone;iOS;14,4;4800210/2018;No.: 102;;164132;FALSCH
+Apple;iPhone 7;Phone;iOS;14,2;4100205;No.: 80;;751117;FALSCH
+Apple;iPhone SE;Phone;iOS;15,6;4800033/2015;No.: 76;;350098;FALSCH
+Apple;iPhone XR;Phone;iOS;16,7;4100272;No.: 94;;673066;WAHR
+Apple;iPad Pro;Tablet;iOS;16,7;;No.: 69;;241646;FALSCH
+Apple;iPhone Xs;Phone;iOS;17;4100308;No.: 100;Mareike Pauls;997651;FALSCH
+Google;Pixel 3a XL;Phone;Android;11 (Beta);4800356/2020;;Mareike Pauls;893922;FALSCH
+LG;43UW950H-ZA;TV;WebOS;;;;Jonathan di Bernardo;457413;FALSCH
+Samsung;Galaxy Tab S3;Tablet;Android;9;4800153/2018;;Jonathan di Bernardo;966371;FALSCH
+Apple;iPhone X;Phone;iOS;;4100298;No.: 126;Abderrehmen Gharsallah;704899;FALSCH
+Google;Pixel 3;Phone;Android;10;4800279/2019;;Dimitrios Brukakis;919096;FALSCH
+Google;Pixel 2 XL;Phone;Android;10;4100276;;Sheryn Hoyer;278242;FALSCH
+Google;Pixel 4;Phone;Android;13;4800310/2019;;Tassilo Winkelbauer;486588;FALSCH
+Nokia;G 21;Phone;Android;12;4800445/2022;;Tassilo Winkelbauer;283561;FALSCH
+Samsung;Galaxy A22;Phone;Android;11;4800422/2022;;;723322;FALSCH
+Apple;iPad Pro 12.9;Tablet;iOS;18;;;Cindy Görlitz;494899;FALSCH
+Microsoft;Windows Lumia 950 XL;Phone;Windows;10 Mobile;4800214/2018;;;654398;FALSCH
+Huawei;MediaPad M3;Tablet;Android;7;4800201/2018;;;776520;FALSCH
+Samsung;Galaxy Tab A8;Tablet;Android;13;4800451/2022;;;434612;FALSCH
+Apple;iPhone 6s;Phone;iOS;15.8.3;4100056;;;677957;FALSCH
+Amazon ;Fire HD 10;Tablet;Fire OS;7.3.3.1;;;;225693;FALSCH
+Apple;iPhone SE;Phone;iOS;15.7.1;4800035/2015;No.: 74;;788404;FALSCH
+Apple;iPad Air 2;Tablet;iOS;15,8;;No.: 61;;820175;FALSCH
+Samsung;Galaxy Tab A SM-T550;Tablet;Android;7.1.1;;;;858001;FALSCH
+Apple;iPhone 7 Plus;Phone;iOS;15.8.3;4100202;No.: 79;;776847;FALSCH
+Samsung;Galaxy S8+;Phone;Android;;4100248;;;696327;FALSCH
+Apple;iPad Air 2;Tablet;iOS;15.8.3;158007190;No.: 84;;792347;FALSCH
+Apple;iPhone 6s;Phone;iOS;15,4;4100089;No.: 87;;387459;FALSCH
+Apple;iPhone 6s;Phone;iOS;15.8.3;4800026/2015;No.: 71;;724766;FALSCH
+General Mobile;GM 5 Plus d;Phone;Android;8.0.0;4800114/2016;;;793616;FALSCH
+Samsung;Galaxy Note 4;Phone;Android;6.0.1;;;;986892;FALSCH
+Apple;iPhone 6s Plus;Phone;iOS;15.7.8;4100062;No.: 68;;214920;WAHR
+Samsung;Galaxy A54;Phone;Android;14;4800551;;Nils Hagenström;171360;FALSCH
+Apple;iPhone 13;Phone;iOS;17.5.1;4800552;;Nils Hagenström;577670;FALSCH
+Apple;iPad Mini;Tablet;iOS;18,1;4800551;;Nils Hagenström;985370;WAHR
+Apple;iPhone XR;Phone;iOS;18.3.1;;;;875143;FALSCH
+Samsung;Galaxy Tab S3;Tablet;Android;7;4800152/2018;;Ansgar Grote;835124;FALSCH
+Samsung;Galaxy A8;Phone;Android;9;;;;155285;FALSCH
+Google;Pixel 9;Phone;Android;15;;;Tassilo Winkelbauer;870779;FALSCH
+Google ;Pixel 8 Pro;Phone;Android;14;;;;483627;FALSCH
+Apple;iPhone 13 mini;Phone;iOS;18;;;;840833;FALSCH
+Apple;iPhone 15;Phone;iOS;18;;;;998727;FALSCH
+Samsung;Galaxy A8;Phone;Android;9;;;;953646;FALSCH
+Xiaomi;Redmi Note 13 Pro+;Phone;Android;14;;;;910411;FALSCH
+Samsung;Galaxy S24;Phone;Android;;;;;614949;FALSCH
+Google ;Pixel 9;Phone;Android;15;;;;341763;FALSCH
+Google ;Pixel 9;Phone;Android;;;;;600262;FALSCH
+;;;;;;;;;FALSCH
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
+;;;;;;;;;
